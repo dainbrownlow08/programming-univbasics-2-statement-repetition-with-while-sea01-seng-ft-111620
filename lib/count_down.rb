@@ -1,6 +1,6 @@
-x = 10
-while x > 0 do
-  puts x
-  x -= 1
-  if x == 1 do
-    puts "Happy New Year!"
+count = 10
+while count >= 1 do
+  puts count
+  count -= 1
+end
+puts "Happy New Year!"
